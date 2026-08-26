@@ -15,10 +15,10 @@
 
 ### 🧭 About Me
 
-- 🎓 MEng Computer Science student at the **University of Portsmouth**
-- 🔬 Final Year Project: browser-based **deepfake detection & interpretation system** — Chrome extension, FastAPI backend, custom Xception-based CNN, multi-signal forensic layer (spatial/temporal/frequency) — **first-class mark (72%)**
-- 💼 Completed an industrial placement year in the pharma sector, working across **AWS infrastructure** and TypeScript UI development
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
+- 🎓 MEng Computer Science student at the University of Portsmouth
+- 🔬 Final Year Project: browser-based deepfake detection & interpretation system - Chrome extension, FastAPI backend, custom Xception-based CNN, multi-signal forensic layer (spatial/temporal/frequency)
+- 💼 Completed an industrial placement year in the pharma sector, working across AWS infrastructure and TypeScript UI development
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
 
@@ -55,7 +55,7 @@ Browser-based Chrome extension detecting deepfakes with a custom CNN and an inte
 <td width="50%" valign="top">
 
 **📸 [PhoneBooth](https://github.com/shreddereatschedder/PhoneBooth)**
-A virtual photobooth — two people on different devices join a room and take synced photos over a live composited WebRTC feed, with background removal and filters.
+A virtual photobooth - two people on different devices join a room and take synced photos over a live composited WebRTC feed, with background removal and filters.
 `FastAPI` `WebSockets` `React` `MongoDB` `WebRTC`
 
 </td>
