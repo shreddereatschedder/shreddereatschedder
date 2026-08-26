@@ -16,7 +16,6 @@
 - 🔬 Final Year Project: browser-based **deepfake detection & interpretation system** — Chrome extension, FastAPI backend, custom Xception-based CNN, multi-signal forensic layer (spatial/temporal/frequency) — **first-class mark (72%)**
 - 💼 Completed an industrial placement year in the pharma sector, working across **AWS infrastructure** and TypeScript UI development
 - ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-- 🛠️ Currently building personal iOS apps and web platforms using an AI-assisted workflow (Copilot/Codex + Claude for prompt design)
 
 ---
 
