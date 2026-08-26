@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190611,50:6B1743,100:FF4FA3&height=200&section=header&text=Shreya%20Jagannatha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Craving%20cheese%20bytes%20and%20cooking%20with%20originality&descAlignY=58&descSize=18&descColor=F5C6E0" />
 </p>
 
----
-
 ### 🧭 About Me
 
 - 🎓 MEng Computer Science student at the University of Portsmouth
