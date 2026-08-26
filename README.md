@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190611,50:6B1743,100:FF4FA3&height=200&section=header&text=Shreya%20Jagannatha&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Craving%20cheese%20bytes%20and%20cooking%20with%20originality&descAlignY=58&descSize=18&descColor=F5C6E0" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&lines=MEng+Computer+Science+%40+University+of+Portsmouth;Deepfake+detection+%2B+forensic+CNNs+for+my+FYP;Building+iOS+apps+%2B+full-stack+web+platforms;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shreddereatschedder"><img src="https://img.shields.io/github/followers/shreddereatschedder?label=Follow&style=for-the-badge&color=190611&labelColor=190611&logo=github&logoColor=FF4FA3" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shreddereatschedder&label=Profile+Views&color=190611&style=for-the-badge&labelColor=190611" alt="profile views" />
-</p> -->
-
 ---
 
 ### 🧭 About Me
@@ -81,7 +72,7 @@ A calculator built for fellow Portsmouth students to work out module weightings 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreddereatschedder&show_icons=true&hide_border=true&bg_color=190611&title_color=FF4FA3&icon_color=FF85C7&text_color=E8D0DE&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreddereatschedder&show_icons=true&hide_border=true&bg_color=190611&title_color=FF4FA3&icon_color=FF85C7&text_color=E8D0DE" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreddereatschedder&layout=compact&hide_border=true&bg_color=190611&title_color=FF4FA3&text_color=E8D0DE" />
 </p>
 
