@@ -72,11 +72,6 @@ A calculator built for fellow Portsmouth students to work out module weightings 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreddereatschedder&show_icons=true&hide_border=true&bg_color=190611&title_color=FF4FA3&icon_color=FF85C7&text_color=E8D0DE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreddereatschedder&layout=compact&hide_border=true&bg_color=190611&title_color=FF4FA3&text_color=E8D0DE" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreddereatschedder&hide_border=true&background=190611&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF85C7&sideLabels=E8D0DE&currStreakNum=E8D0DE&sideNums=E8D0DE&dates=8A6478" />
 </p>
 
