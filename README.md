@@ -6,7 +6,7 @@
 
 - 🎓 MEng Computer Science student at the University of Portsmouth
 - 🔬 Final Year Project: browser-based deepfake detection & interpretation system - Chrome extension, FastAPI backend, custom Xception-based CNN, multi-signal forensic layer (spatial/temporal/frequency)
-- 💼 Completed an industrial placement year in the pharma sector, working across AWS infrastructure and TypeScript UI development
+- 💼 Completed an industrial placement year in the pharma sector, working in a full stack software engineering role
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
