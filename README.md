@@ -11,7 +11,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-190611?style=for-the-badge&logo=python&logoColor=FF4FA3" />
