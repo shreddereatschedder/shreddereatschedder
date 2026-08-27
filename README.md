@@ -14,47 +14,23 @@
 ### 🧰 Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreddereatschedder/shreddereatschedder/main/assets/tech-marquee.svg" width="900" />
+  <img src="https://raw.githubusercontent.com/shreddereatschedder/shreddereatschedder/main/assets/tech-grid.svg" width="644" height="396" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreddereatschedder/shreddereatschedder/main/assets/project-carousel.svg" width="900" height="210" />
+</p>
 
-**🕵️ [DeepScan-AI](https://github.com/shreddereatschedder/DeepScan-AI-deepfake-video-detector)** *(Final Year Project)*
-Browser-based Chrome extension detecting deepfakes with a custom CNN and an interpretability layer explaining *why* a video looks manipulated. FastAPI backend with an async job pipeline.
-`Python` `FastAPI` `Chrome Extension`
-
-</td>
-<td width="50%" valign="top">
-
-**📸 [PhoneBooth](https://github.com/shreddereatschedder/PhoneBooth)**
-A virtual photobooth - two people on different devices join a room and take synced photos over a live composited WebRTC feed, with background removal and filters.
-`FastAPI` `WebSockets` `React` `MongoDB` `WebRTC`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎵 [iPod-App-for-iPhone](https://github.com/shreddereatschedder/iPod-App-for-iPhone)**
-An ad-free, iPod-inspired music player for iPhone with a pastel UI, built and shipped without a Mac using GitHub Actions for cloud compilation.
-`Swift` `SwiftUI` `SwiftData` `AVFoundation`
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 [UoP-Degree-Calculator](https://github.com/shreddereatschedder/UoP-Degree-Calculator)**
-A calculator built for fellow Portsmouth students to work out module weightings and their projected degree classification.
-`HTML` `JavaScript`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/shreddereatschedder/DeepScan-AI-deepfake-video-detector">DeepScan-AI</a> ·
+  <a href="https://github.com/shreddereatschedder/PhoneBooth">PhoneBooth</a> ·
+  <a href="https://github.com/shreddereatschedder/iPod-App-for-iPhone">iPod-App-for-iPhone</a> ·
+  <a href="https://github.com/shreddereatschedder/UoP-Degree-Calculator">UoP-Degree-Calculator</a>
+</p>
 
 ---
 

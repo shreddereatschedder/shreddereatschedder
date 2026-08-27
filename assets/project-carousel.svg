@@ -1,0 +1,88 @@
+<svg viewBox="0 0 900 210" width="900" height="210" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .track {
+      animation: scroll 34s linear infinite;
+    }
+    @keyframes scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-1696px); }
+    }
+  </style>
+  <g class="track">
+    <rect x="0" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="22" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🕵️ DeepScan-AI</text>
+    <text x="22" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Chrome extension + FastAPI backend detecting</text><text x="22" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">deepfakes with a custom CNN — forensic</text><text x="22" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">explanations, not just a score. ~95s average</text><text x="22" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">analysis, First-Class FYP (72%).</text>
+    
+    <rect x="22" y="160" width="62" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="53.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">Python</text>
+    <rect x="94" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="128.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">FastAPI</text>
+    <rect x="173" y="160" width="41" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="193.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">CNN</text>
+    <rect x="424" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="446" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">📸 PhoneBooth</text>
+    <text x="446" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Real-time two-person virtual photobooth.</text><text x="446" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Native peer-to-peer WebRTC video, a FastAPI</text><text x="446" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">WebSocket signaling server, and 60fps canvas</text><text x="446" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">compositing with MediaPipe background removal.</text>
+    
+    <rect x="446" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="480.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">FastAPI</text>
+    <rect x="525" y="160" width="62" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="556.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">WebRTC</text>
+    <rect x="597" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="631.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">MongoDB</text>
+    <rect x="848" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="870" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🎵 iPod-App-for-iPhone</text>
+    <text x="870" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Ad-free, iPod-inspired iOS music player.</text><text x="870" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Service-oriented SwiftUI splitting YouTube</text><text x="870" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">integration, downloads, and playback. Built</text><text x="870" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">without a Mac via GitHub Actions CI.</text>
+    
+    <rect x="870" y="160" width="55" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="897.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">Swift</text>
+    <rect x="935" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="969.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">SwiftUI</text>
+    <rect x="1014" y="160" width="90" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1059.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">GH Actions</text>
+    <rect x="1272" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="1294" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🎓 UoP-Degree-Calculator</text>
+    <text x="1294" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">A calculator built for fellow Portsmouth</text><text x="1294" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">students to work out module weightings and</text><text x="1294" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">instantly see their projected degree</text><text x="1294" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">classification.</text>
+    
+    <rect x="1294" y="160" width="48" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1318.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">HTML</text>
+    <rect x="1352" y="160" width="90" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1397.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">JavaScript</text>
+    <rect x="1696" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="1718" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🕵️ DeepScan-AI</text>
+    <text x="1718" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Chrome extension + FastAPI backend detecting</text><text x="1718" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">deepfakes with a custom CNN — forensic</text><text x="1718" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">explanations, not just a score. ~95s average</text><text x="1718" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">analysis, First-Class FYP (72%).</text>
+    
+    <rect x="1718" y="160" width="62" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1749.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">Python</text>
+    <rect x="1790" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1824.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">FastAPI</text>
+    <rect x="1869" y="160" width="41" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="1889.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">CNN</text>
+    <rect x="2120" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="2142" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">📸 PhoneBooth</text>
+    <text x="2142" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Real-time two-person virtual photobooth.</text><text x="2142" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Native peer-to-peer WebRTC video, a FastAPI</text><text x="2142" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">WebSocket signaling server, and 60fps canvas</text><text x="2142" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">compositing with MediaPipe background removal.</text>
+    
+    <rect x="2142" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2176.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">FastAPI</text>
+    <rect x="2221" y="160" width="62" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2252.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">WebRTC</text>
+    <rect x="2293" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2327.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">MongoDB</text>
+    <rect x="2544" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="2566" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🎵 iPod-App-for-iPhone</text>
+    <text x="2566" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Ad-free, iPod-inspired iOS music player.</text><text x="2566" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">Service-oriented SwiftUI splitting YouTube</text><text x="2566" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">integration, downloads, and playback. Built</text><text x="2566" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">without a Mac via GitHub Actions CI.</text>
+    
+    <rect x="2566" y="160" width="55" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2593.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">Swift</text>
+    <rect x="2631" y="160" width="69" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2665.5" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">SwiftUI</text>
+    <rect x="2710" y="160" width="90" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="2755.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">GH Actions</text>
+    <rect x="2968" y="8" width="400" height="190" rx="20" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="2990" y="42" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#FF4FA3">🎓 UoP-Degree-Calculator</text>
+    <text x="2990" y="66" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">A calculator built for fellow Portsmouth</text><text x="2990" y="83" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">students to work out module weightings and</text><text x="2990" y="100" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">instantly see their projected degree</text><text x="2990" y="117" font-family="Fira Code, monospace" font-size="12" fill="#E8D0DE">classification.</text>
+    
+    <rect x="2990" y="160" width="48" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="3014.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">HTML</text>
+    <rect x="3048" y="160" width="90" height="24" rx="12" fill="none" stroke="#FF4FA3" stroke-opacity="0.6" stroke-width="1.2"/>
+    <text x="3093.0" y="177" text-anchor="middle" font-family="Fira Code, monospace" font-size="10.5" fill="#FF85C7">JavaScript</text></g>
+</svg>
