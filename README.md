@@ -13,6 +13,33 @@
 
 ### 🧰 Technologies
 
+
+<p align="center">
+  <sub><b>LANGUAGES</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,swift,dart,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>BACKEND & DISTRIBUTED SYSTEMS</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>CLOUD & INFRASTRUCTURE</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>FRONTEND & DESIGN</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>TOOLING</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,pytest&theme=dark" />
+</p>
+
+
 <table>
 <tr>
 <th>Languages</th>
