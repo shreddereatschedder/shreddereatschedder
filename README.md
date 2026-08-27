@@ -13,6 +13,9 @@
 
 ### 🧰 Technologies
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreddereatschedder/shreddereatschedder/main/assets/tech-marquee.svg" width="900" />
+</p>
 
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br/>
