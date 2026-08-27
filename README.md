@@ -66,10 +66,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shreddereatschedder/DeepScan-AI-deepfake-video-detector">DeepScan-AI</a> ·
-  <a href="https://github.com/shreddereatschedder/PhoneBooth">PhoneBooth</a> ·
-  <a href="https://github.com/shreddereatschedder/iPod-App-for-iPhone">iPod-App-for-iPhone</a> ·
-  <a href="https://github.com/shreddereatschedder/UoP-Degree-Calculator">UoP-Degree-Calculator</a>
+  <a href="https://github.com/shreddereatschedder/DeepScan-AI-deepfake-video-detector"><img src="https://img.shields.io/badge/DeepScan--AI-190611?style=for-the-badge&logo=github&logoColor=FF4FA3" /></a>
+  <a href="https://github.com/shreddereatschedder/PhoneBooth"><img src="https://img.shields.io/badge/PhoneBooth-190611?style=for-the-badge&logo=github&logoColor=FF4FA3" /></a>
+  <a href="https://github.com/shreddereatschedder/iPod-App-for-iPhone"><img src="https://img.shields.io/badge/iPod--App--for--iPhone-190611?style=for-the-badge&logo=github&logoColor=FF4FA3" /></a>
+  <a href="https://github.com/shreddereatschedder/UoP-Degree-Calculator"><img src="https://img.shields.io/badge/UoP--Degree--Calculator-190611?style=for-the-badge&logo=github&logoColor=FF4FA3" /></a>
 </p>
 
 ---
