@@ -1,0 +1,96 @@
+<svg viewBox="0 0 900 100" width="900" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .track {
+      animation: scroll 26s linear infinite;
+    }
+    @keyframes scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-1890px); }
+    }
+  </style>
+  <g class="track">
+    <rect x="5" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="17" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+    <rect x="95" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="107" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+    <rect x="185" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="197" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+    <rect x="275" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="287" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg"/>
+    <rect x="365" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="377" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg"/>
+    <rect x="455" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="467" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+    <rect x="545" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="557" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+    <rect x="635" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="647" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg"/>
+    <rect x="725" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="737" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/>
+    <rect x="815" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="827" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
+    <rect x="905" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="917" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"/>
+    <rect x="995" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1007" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
+    <rect x="1085" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1097" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg"/>
+    <rect x="1175" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1187" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg"/>
+    <rect x="1265" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1277" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg"/>
+    <rect x="1355" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1367" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+    <rect x="1445" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1457" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
+    <rect x="1535" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1547" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg"/>
+    <rect x="1625" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1637" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"/>
+    <rect x="1715" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1727" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/>
+    <rect x="1805" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1817" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+    <rect x="1895" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1907" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+    <rect x="1985" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="1997" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+    <rect x="2075" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2087" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+    <rect x="2165" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2177" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg"/>
+    <rect x="2255" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2267" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg"/>
+    <rect x="2345" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2357" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+    <rect x="2435" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2447" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+    <rect x="2525" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2537" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg"/>
+    <rect x="2615" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2627" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/>
+    <rect x="2705" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2717" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
+    <rect x="2795" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2807" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"/>
+    <rect x="2885" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2897" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
+    <rect x="2975" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="2987" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg"/>
+    <rect x="3065" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3077" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg"/>
+    <rect x="3155" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3167" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg"/>
+    <rect x="3245" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3257" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+    <rect x="3335" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3347" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
+    <rect x="3425" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3437" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg"/>
+    <rect x="3515" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3527" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"/>
+    <rect x="3605" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3617" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/>
+    <rect x="3695" y="5" width="80" height="80" rx="18" fill="#190611" stroke="#FF4FA3" stroke-opacity="0.35" stroke-width="1.5"/>
+    <image x="3707" y="17" width="56" height="56" href="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/></g>
+</svg>
