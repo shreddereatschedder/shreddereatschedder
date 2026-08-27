@@ -13,9 +13,49 @@
 
 ### 🧰 Technologies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreddereatschedder/shreddereatschedder/main/assets/tech-grid.svg" width="644" height="396" />
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-190611?style=for-the-badge&logo=python&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/TypeScript-190611?style=for-the-badge&logo=typescript&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/JavaScript-190611?style=for-the-badge&logo=javascript&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Swift-190611?style=for-the-badge&logo=swift&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Dart-190611?style=for-the-badge&logo=dart&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/SQL-190611?style=for-the-badge&logo=postgresql&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/HTML/CSS-190611?style=for-the-badge&logo=html5&logoColor=FF4FA3" />
 </p>
+
+**Backend & Distributed Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-190611?style=for-the-badge&logo=fastapi&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/MongoDB-190611?style=for-the-badge&logo=mongodb&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-190611?style=for-the-badge&logo=postgresql&logoColor=FF4FA3" />
+</p>
+
+**Cloud & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-190611?style=for-the-badge&logo=amazonaws&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Docker-190611?style=for-the-badge&logo=docker&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Kubernetes-190611?style=for-the-badge&logo=kubernetes&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-190611?style=for-the-badge&logo=githubactions&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Grafana-190611?style=for-the-badge&logo=grafana&logoColor=FF4FA3" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-190611?style=for-the-badge&logo=react&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Next.js-190611?style=for-the-badge&logo=next.js&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/SwiftUI-190611?style=for-the-badge&logo=swift&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Flutter-190611?style=for-the-badge&logo=flutter&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-190611?style=for-the-badge&logo=tailwindcss&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/Figma-190611?style=for-the-badge&logo=figma&logoColor=FF4FA3" />
+</p>
+
+**Testing & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-190611?style=for-the-badge&logo=git&logoColor=FF4FA3" />
+  <img src="https://img.shields.io/badge/pytest-190611?style=for-the-badge&logo=pytest&logoColor=FF4FA3" />
+</p>
+
 
 ---
 
